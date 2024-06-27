@@ -1,6 +1,6 @@
 ## clone
 ```terminal
-$ git clone https://github.com/DuryodhanDeep/Airline-Management.git
+$ git clone https://github.com/ginnijoshi/Airline_Management.git
 
 notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
